@@ -117,7 +117,7 @@ A benchmarking dataset of texts has been created and annotated for PII. Each PII
 - How can we simulate a real-world attack / attempt of re-identification?
     - [Beyond Memorization: Violating Privacy Via Inference with Large Language Models](https://arxiv.org/abs/2310.07298) uses GPT-4 to predict personal attributes (age, place of birth, etc.) from users' Reddit comments, achieving 85% accuracy. The dataset created for this task is not publicly released.
     - The previous group has released [a synthetic dataset](https://arxiv.org/abs/2406.07217) that can be used to evaluate LLMs on predicting personal attributes.
-    - Insipired by these works, one potential method for evaluating our PII splicing beyond token-level PII is to compare the accuracy of predicting personal attributes of subjects before and after PII splicing. Reduced accuracy after splicing may indicate that PII splicing has successfully removed contextual PII.
+    - Inspired by these works, one potential method for evaluating our PII splicing beyond token-level PII is to compare the accuracy of predicting personal attributes of subjects before and after PII splicing. Reduced accuracy after splicing may indicate that PII splicing has successfully removed contextual PII.
 - Should we distinguish open-set vs. closed-set identification?
     - [Dementia Bank's IRB section (subsection: Voiceprints)](https://talkbank.org/share/irb/) has thoughts on this.
 - What requirements will real-world data stewards need to fulfill for de-id before data sharing?
