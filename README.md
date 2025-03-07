@@ -139,7 +139,7 @@ masked language models outperform generative model prompting](https://arxiv.org/
 ## De-identification Standards
 | Name | Links |  Year |
 | - | - | - |
-| [De-Identification of Personal Information](https://nvlpubs.nist.gov/nistpubs/ir/2015/nist.ir.8053.pdf) | [PDF](deid_standards/GarfinkelS_NISTIR8053_deidentification_of_2015.pdf) | 2015 |
+| [De-Identification of Personal Information (NISTIR 8053)](https://nvlpubs.nist.gov/nistpubs/ir/2015/nist.ir.8053.pdf) | [PDF](deid_standards/GarfinkelS_NISTIR8053_deidentification_of_2015.pdf) | 2015 |
 
 ## Re-identification
 | Name | Links |  Year |
