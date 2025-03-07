@@ -155,8 +155,8 @@ masked language models outperform generative model prompting](https://arxiv.org/
 
 ## MRI De-identification
 
-| Name |  Type | PDF |
-| - | - | - |
+| Name |  Type | PDF | Year |
+| - | - | - | - |
 [Changing the face of neuroimaging research: Comparing a new MRI de-facing technique with popular alternatives](https://www.sciencedirect.com/science/article/pii/S1053811921001221) | MRI De-id | [PDF](mri_deid/SchwarzC_changing_the_face_2021.pdf) | 2021 |
 [Identification of Anonymous MRI Research Participants with Face-Recognition Software](https://pmc.ncbi.nlm.nih.gov/articles/PMC7091256/) | MRI De-id | [PDF](mri_deid/SchwarzC_identification_of_anonymous_2020.pdf) | 2020 |
 [Reconstructing faces from fMRI patterns using deep generative neural networks](https://www.nature.com/articles/s42003-019-0438-y) | MRI De-id | [PDF](mri_deid/VanRullenR_reconstructing_faces_from_2019.pdf) | 2019 | 
