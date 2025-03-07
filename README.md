@@ -140,18 +140,18 @@ masked language models outperform generative model prompting](https://arxiv.org/
 
 | Name | Type | PDF |  Year |
 | - | - | - | - |
-| [A unified framework for evaluating the risk of re-identification of text de-identification tools](https://www.sciencedirect.com/science/article/pii/S1532046416300697) | Existing Tools | [PDF](existing_tools/1-s2.0-S0885230824001293-main.pdf) | 2016 |
-| [An Extensible Evaluation Framework Applied to Clinical Text Deidentification Natural Language Processing Tools: Multisystem and Multicorpus Study](https://pubmed.ncbi.nlm.nih.gov/38805692/) ([GitHub](https://codeberg.org/HeiderLab/ots-deidentification))| Existing Tools | [PDF](existing_tools/jmir-2024-1-e55676.pdf) | 2024 |
-[You Are What You Write: Author re-identification privacy attacks in the era of pre-trained language models](https://www.sciencedirect.com/science/article/pii/S0885230824001293) | Existing Tools | [PDF](existing_tools/re-id-privacy-attacks.pdf) | 2025 |
-[DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data](https://arxiv.org/abs/2410.01648) | Existing Tools | [PDF](existing_tools/2410.01648v1.pdf) | 2024 |
-| [Enhancing the De-identification of Personally Identifiable Information in Educational Data](https://arxiv.org/html/2501.09765v1) | Existing tools | [PDF](existing_tools/2501.09765v1.pdf) | 2025 |
-| [Benchmarking Modern Named Entity Recognition Techniques for Free-text Health Record Deidentification](https://pmc.ncbi.nlm.nih.gov/articles/PMC8378656) | Existing Tools | 2021 |
-| [From zero to hero: Harnessing transformers for biomedical named entity recognition in zero- and few-shot contexts](https://www.sciencedirect.com/science/article/abs/pii/S0933365724002124) | Existing Tools | 2024 |
+| [A unified framework for evaluating the risk of re-identification of text de-identification tools](https://www.sciencedirect.com/science/article/pii/S1532046416300697) | Existing Tools | [PDF](existing_tools/ScaianoM_a_unified_framework_2016.pdf) | 2016 |
+| [An Extensible Evaluation Framework Applied to Clinical Text Deidentification Natural Language Processing Tools: Multisystem and Multicorpus Study](https://pubmed.ncbi.nlm.nih.gov/38805692/) | Existing Tools | [PDF](existing_tools/HeiderP_an_extensible_evaluation_2024.pdf), [GitHub](https://codeberg.org/HeiderLab/ots-deidentification) | 2024 |
+[You Are What You Write: Author re-identification privacy attacks in the era of pre-trained language models](https://www.sciencedirect.com/science/article/pii/S0885230824001293) | Existing Tools | [PDF](existing_tools/PlantR_you_are_what_you_write_2025.pdf) | 2025 |
+[DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data](https://arxiv.org/abs/2410.01648) | Existing Tools | [PDF](existing_tools/PaulA_deidclinic_a_multilayered_framework_2024.pdf) | 2024 |
+| [Enhancing the De-identification of Personally Identifiable Information in Educational Data](https://arxiv.org/html/2501.09765v1) | Existing tools | [PDF](existing_tools/ShenY_enhancing_the_deidentification_2025.pdf) | 2025 |
+| [Benchmarking Modern Named Entity Recognition Techniques for Free-text Health Record Deidentification](https://pmc.ncbi.nlm.nih.gov/articles/PMC8378656) | Existing Tools | [PDF](existing_tools/AhmedA_benchmarking_modern_2021.pdf) | 2021 |
+| [From zero to hero: Harnessing transformers for biomedical named entity recognition in zero- and few-shot contexts](https://www.sciencedirect.com/science/article/abs/pii/S0933365724002124) | Existing Tools | PDF (not public) | 2024 |
 
 ## Metrics
 | Name | Type | PDF | Year | 
 | - | - | - | - |
-| [Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/pdf/2302.00539), especially PII reconstruction/inference | Metric | [PDF] (existing_tools/2302.00539v4.pdf) | 2023 |
+| [Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/pdf/2302.00539) | Metric | [PDF](existing_tools/LukasN_analyzing_leakage_of_2023.pdf) | 2023 |
 
 ## MRI De-identification
 
