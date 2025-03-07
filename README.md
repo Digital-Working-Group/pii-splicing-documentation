@@ -136,8 +136,25 @@ masked language models outperform generative model prompting](https://arxiv.org/
     - Explicit chain of thought
     - Chain of verification
 
-## Existing Text De-identification Tools
+## De-identification Standards
+| Name | PDF |  Year |
+| - | - | - |
+| [De-Identification of Personal Information](https://nvlpubs.nist.gov/nistpubs/ir/2015/nist.ir.8053.pdf) | [PDF](deid_standards/GarfinkelS_NISTIR8053_deidentification_of_2015.pdf) | 2015 |
 
+## Re-identification
+| Name | PDF |  Year |
+| - | - | - |
+| [Re-identification of anonymised MRI head images with publicly available software: investigation of the current risk to patient privacy](reidentification/https://pubmed.ncbi.nlm.nih.gov/39640939/) | [PDF](SteegK_reidentification_of_anonymised_mri_2024.pdf) | 2024 |
+| [Facial Recognition Software: FaceCheck.ID](https://facecheck.id/Face-Search/API) | NA | NA |
+| [Re-Identification of "Anonymized" Data](https://georgetownlawtechreview.org/re-identification-of-anonymized-data/GLTR-04-2017/) | [PDF](reidentification/LubarskyB_reidentification_of_anonymized_data_2017.pdf) | 2017
+| [The 'Re-Identification' of Governor William Weld's Medical Information: A Critical Re-Examination of Health Data Identification Risks and Privacy Protections, Then and Now](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2076397) | [PDF](reidentification/BarthJonesD_the_reidentification_of_governor_2012.pdf) | 2012 |
+| [Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID_CVPR_2024_paper.pdf) | [PDF](reidentification/TanWentao_harnessing_the_Power_of_mllms_2024.pdf), [GitHub](https://github.com/WentaoTan/MLLM4Text-ReID) | 2024 |
+| [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification) | NA | 2024 |
+| [Robust De-anonymization of Large Sparse Datasets](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) | [PDF](reidentification/NarayananA_robust_deanonymization_of_2008.pdf) | 2008 |
+| [(Update): Robust De-anonymization of Large Sparse Datasets: a decade later](https://www.cs.princeton.edu/~arvindn/publications/de-anonymization-retrospective.pdf) | [PDF](reidentification/NarayananA_robust_deanonymization_2019.pdf) | 2019 |
+| [Re-identification risk analysis (via Google)](https://cloud.google.com/sensitive-data-protection/docs/concepts-risk-analysis) | NA | 2025
+
+## Existing Text De-identification Tools
 | Name | Type | PDF |  Year |
 | - | - | - | - |
 | [A unified framework for evaluating the risk of re-identification of text de-identification tools](https://www.sciencedirect.com/science/article/pii/S1532046416300697) | Existing Tools | [PDF](existing_tools/ScaianoM_a_unified_framework_2016.pdf) | 2016 |
