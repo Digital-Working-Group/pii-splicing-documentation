@@ -137,12 +137,12 @@ masked language models outperform generative model prompting](https://arxiv.org/
     - Chain of verification
 
 ## De-identification Standards
-| Name | PDF |  Year |
+| Name | Links |  Year |
 | - | - | - |
 | [De-Identification of Personal Information](https://nvlpubs.nist.gov/nistpubs/ir/2015/nist.ir.8053.pdf) | [PDF](deid_standards/GarfinkelS_NISTIR8053_deidentification_of_2015.pdf) | 2015 |
 
 ## Re-identification
-| Name | PDF |  Year |
+| Name | Links |  Year |
 | - | - | - |
 | [Re-identification of anonymised MRI head images with publicly available software: investigation of the current risk to patient privacy](reidentification/https://pubmed.ncbi.nlm.nih.gov/39640939/) | [PDF](SteegK_reidentification_of_anonymised_mri_2024.pdf) | 2024 |
 | [Facial Recognition Software: FaceCheck.ID](https://facecheck.id/Face-Search/API) | NA | NA |
@@ -155,7 +155,7 @@ masked language models outperform generative model prompting](https://arxiv.org/
 | [Re-identification risk analysis (via Google)](https://cloud.google.com/sensitive-data-protection/docs/concepts-risk-analysis) | NA | 2025
 
 ## Existing Text De-identification Tools
-| Name | PDF |  Year |
+| Name | Links |  Year |
 | - | - | - |
 | [A unified framework for evaluating the risk of re-identification of text de-identification tools](https://www.sciencedirect.com/science/article/pii/S1532046416300697) | [PDF](existing_tools/ScaianoM_a_unified_framework_2016.pdf) | 2016 |
 | [An Extensible Evaluation Framework Applied to Clinical Text Deidentification Natural Language Processing Tools: Multisystem and Multicorpus Study](https://pubmed.ncbi.nlm.nih.gov/38805692/) | [PDF](existing_tools/HeiderP_an_extensible_evaluation_2024.pdf), [GitHub](https://codeberg.org/HeiderLab/ots-deidentification) | 2024 |
@@ -166,13 +166,13 @@ masked language models outperform generative model prompting](https://arxiv.org/
 | [From zero to hero: Harnessing transformers for biomedical named entity recognition in zero- and few-shot contexts](https://www.sciencedirect.com/science/article/abs/pii/S0933365724002124) | PDF (not public) | 2024 |
 
 ## Metrics
-| Name | PDF | Year | 
+| Name | Links | Year | 
 | - | - | - |
 | [Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/pdf/2302.00539) | [PDF](existing_tools/LukasN_analyzing_leakage_of_2023.pdf) | 2023 |
 
 ## MRI De-identification
 
-| Name | PDF | Year |
+| Name | Links | Year |
 | - | - | - |
 [Changing the face of neuroimaging research: Comparing a new MRI de-facing technique with popular alternatives](https://www.sciencedirect.com/science/article/pii/S1053811921001221) | [PDF](mri_deid/SchwarzC_changing_the_face_2021.pdf) | 2021 |
 [Identification of Anonymous MRI Research Participants with Face-Recognition Software](https://pmc.ncbi.nlm.nih.gov/articles/PMC7091256/) | [PDF](mri_deid/SchwarzC_identification_of_anonymous_2020.pdf) | 2020 |
