@@ -1,3 +1,34 @@
+# PII Splicing Arguments
+
+**-File(s) to redact**
+	Single File (default), Folder
+
+**-Output File(s)**
+	Filename (default), Folder
+
+**-What to redact**
+	Default Categories (always on): Last Name, Address Physical and Electronic, Any ID Number 
+ 
+Optional Categories (additional selections): First Name, Organization, Location, Unique Characteristic, Achievement, Event
+
+**-Redaction Model**
+   llama 3.2 (default), deepseek R1, GPT-4
+
+**-Redaction Tolerance**
+	10000 (default), custom value integer in powers of 10
+
+**-Known Identity**
+	Off (default), Description string
+
+**-Verification**
+	Off (default), On [Reverse lookup]
+
+**-What to replace with**
+	PII Category (Default), Custom Annotation String
+
+**-Output report**
+	JSON, HTML full report  
+
 ## Definitions
 P: number of PII elements in a given text
 
